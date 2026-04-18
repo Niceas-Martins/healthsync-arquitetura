@@ -1,6 +1,6 @@
 # 🏥 HealthSync – Arquitetura de Software
 
-## 📌 CICLO 1: Visão e Requisitos (Fase 1)
+##  CICLO 1: Visão e Requisitos (Fase 1)
 
 ---
 
@@ -16,7 +16,7 @@ auxiliarão na análise preditiva, identificação de padrões e apoio à tomada
 
 ---
 
-## ⚙️ 1.2 Requisitos Funcionais (RFs)
+##  1.2 Requisitos Funcionais (RFs)
 
 Requisitos Funcionais do Sistema HealthSync:
 
@@ -36,7 +36,7 @@ Requisitos Funcionais do Sistema HealthSync:
 
 ---
 
-## 🔒 1.3 Atributos de Qualidade (RNFs)
+## 1.3 Atributos de Qualidade (RNFs)
 
 1 **Segurança e Privacidade:** O sistema deve possuir criptografia ponta a ponta. Estando em conformidade com LGPD.  
 
@@ -50,13 +50,13 @@ Requisitos Funcionais do Sistema HealthSync:
 
 ---
 
-## 🧩 1.3 Diagrama de Contexto (C4 Nível 1)
+##  1.3 Diagrama de Contexto (C4 Nível 1)
 
 Diagrama está na pasta: **/diagrams**
 
 ---
 
-## 🎯 1.4 Classificação da Estratégia
+##  1.4 Classificação da Estratégia
 
 • **Classificação:** Balanceada  
 
@@ -70,7 +70,7 @@ estabilidade do sistema.
 
 ---
 
-## 🧾 1.5 ADR
+##  1.5 ADR
 
 1. **Título:** Arquitetura do Sistema baseada em Microserviços.  
 
